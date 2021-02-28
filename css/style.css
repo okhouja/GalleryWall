@@ -5,6 +5,9 @@
 h1 {
   font-family: Lancelot;
 }
+html {
+  background-color: black;
+}
 /* Main img setup */
 .img {
   border: 1px solid gray;
